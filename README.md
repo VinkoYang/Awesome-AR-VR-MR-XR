@@ -102,8 +102,20 @@ This repository collects resources that support learning, research, and developm
 - [XR Blocks: AI + XR Framework（Google Research）](https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/)
 - [ML for XR Spatial Positioning（DIVA Portal）](https://su.diva-portal.org/smash/get/diva2:1830965/FULLTEXT01.pdf)
 
+---
 
+## 🛠️ Devices & Hardware
 
+### Consumer VR
+- **[Meta Quest 3 / Quest Pro](https://www.meta.com/quest/)** – Leading consumer VR platform
+- **[PlayStation VR2](https://www.playstation.com/en-us/ps5/ps-vr2/)** – Console-based VR
+
+### Premium/Professional XR
+- **[Apple Vision Pro](https://www.apple.com/vision-pro/)** – Spatial computer with AR/VR capabilities
+- **[Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens/hardware)** – Enterprise mixed reality device
+- **[HTC Vive XR Elite](https://www.vive.com/us/product/vive-xr-elite/)** – High-end VR headset
+- **[Varjo XR Series](https://varjo.com/)** – Professional XR with ultra-high resolution
+- **[Magic Leap 2](https://www.magicleap.com/)** – Spatial computing platform
 ---
 
 ## Frameworks
@@ -274,21 +286,12 @@ Inspirational videos/sources are ordered by their field of application.
 - [How to Add LLMs to VR Apps with AI Building Blocks](https://www.youtube.com/watch?v=Q8BFLkRYOy0)
 - [How to Add Text-To-Speech to VR Games! (Meta SDKs + AI)](https://www.youtube.com/watch?v=61VAC6oQHTQ)
 
+
 ---
+## Awesome Projects
 
-## 🛠️ Devices & Hardware
-
-### Consumer VR
-- **[Meta Quest 3 / Quest Pro](https://www.meta.com/quest/)** – Leading consumer VR platform
-- **[PlayStation VR2](https://www.playstation.com/en-us/ps5/ps-vr2/)** – Console-based VR
-
-### Premium/Professional XR
-- **[Apple Vision Pro](https://www.apple.com/vision-pro/)** – Spatial computer with AR/VR capabilities
-- **[Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens/hardware)** – Enterprise mixed reality device
-- **[HTC Vive XR Elite](https://www.vive.com/us/product/vive-xr-elite/)** – High-end VR headset
-- **[Varjo XR Series](https://varjo.com/)** – Professional XR with ultra-high resolution
-- **[Magic Leap 2](https://www.magicleap.com/)** – Spatial computing platform
-
+### AI
+- [AI Building Blocks Demos](https://github.com/dilmerv/AIBuildingBlocksDemos) - Samples including Object Detection, Large Language Models (LLMs), Text To Speech (TTS), and Speech To Text (STT).
 
 ---
 
