@@ -27,3 +27,10 @@ XR hardware
 User experience & ergonomics
 Immersive application development
 Machine learning for XR
+Blogs
+Influential blogs and sources of information.
+
+Mozilla Mixed Reality Blog - News about AR, VR and MR from Mozilla
+Next Reality - AR & MR news, rumors & dev guides
+Reddit Augmented Reality - A common ground for discussion relating to Augmented Reality and Augmented Worlds.
+Venturebeat - Technology news site with a specific AR/VR channel.
