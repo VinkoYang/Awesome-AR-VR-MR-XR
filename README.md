@@ -4,18 +4,39 @@ A curated list of awesome resources related to immersive technologies, including
 
 **Contributions are welcome!** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## Introduction
+
+This repository collects resources that support learning, research, and development in AR/VR/MR/XR technologies. Whether you're a developer, researcher, or enthusiast, you'll find curated resources across multiple domains.
+
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Libraries & Frameworks]
-  - 
+- [Basic Knowledge](#basic-knowledge)
+  - [AR/VR/XR Basics](#arvrxr-basics)
+  - [Tracking & SLAM](#tracking--slam)
+  - [Rendering](#rendering)
+  - [Interaction Techniques](#interaction-techniques)
+  - [XR Hardware](#xr-hardware)
+  - [User Experience & Ergonomics](#user-experience--ergonomics)
+  - [Immersive Application Development](#immersive-application-development)
+  - [Machine Learning for XR](#machine-learning-for-xr)
+- [Frameworks](#frameworks)
+  - [Cross‑Platform XR Frameworks](#cross‑platform-xr-frameworks)
+  - [AR Frameworks](#ar-frameworks)
+  - [VR Frameworks](#vr-frameworks)
+  - [MR / Spatial Computing Frameworks](#mr--spatial-computing-frameworks)
+  - [Web‑based XR Frameworks](#web‑based-xr-frameworks)
+  - [No‑Code / Low‑Code XR Tools](#no‑code--low‑code-xr-tools)
 - [SDKs & Development Tools](#sdks--development-tools)
-  - [Cross-Platform](#cross-platform)
-  - [AR SDKs](#ar-sdks)
-  - [VR SDKs](#vr-sdks)
-- [AR Libraries & Frameworks](#ar-libraries--frameworks)
-- [VR Libraries & Frameworks](#vr-libraries--frameworks)
-- [MR/XR Toolkits](#mrxr-toolkits)
+  - [Tracking / SLAM / Visual–Inertial Estimation](#tracking--slam--visual%E2%80%93inertial-estimation)
+  - [Computer Vision Libraries](#computer-vision-libraries)
+  - [Hand & Body Tracking](#hand--body-tracking)
+  - [Rendering, Graphics & XR Runtime APIs](#rendering-graphics--xr-runtime-apis)
+- [Inspiration](#inspiration)
+  - [Education](#education)
+  - [Holoportation](#holoportation)
+  - [Movies / TV](#movies--tv)
+  - [Sports](#sports)
 - [Papers](#papers)
   - [3D Reconstruction & Tracking](#3d-reconstruction--tracking)
   - [Human–XR Interaction](#humanxr-interaction)
@@ -28,21 +49,20 @@ A curated list of awesome resources related to immersive technologies, including
   - [Blogs & News](#blogs--news)
 - [License](#license)
 
-## 🚀 Basic Knowledge
+## Basic Knowledge
 
-This repository collects resources that support learning, research, and development in AR/VR/MR/XR technologies. Whether you're a developer, researcher, or enthusiast, you'll find curated resources across multiple domains.
+**Topics covered include:**
 
-Topics Covered
-- **AR/VR/XR Basic**
-- **Tracking & SLAM** – Spatial mapping and localization techniques
-- **Rendering** – Graphics and visualization pipelines
-- **Interaction Techniques** – User interaction design and implementation
-- **XR Hardware** – Devices and technical specifications
-- **User Experience & Ergonomics** – Design best practices
-- **Immersive Application Development** – Tools and frameworks
+- **AR/VR/XR Basics**
+- **Tracking & SLAM** – spatial mapping and localization techniques
+- **Rendering** – graphics and visualization pipelines
+- **Interaction Techniques** – user interaction design and implementation
+- **XR Hardware** – devices and technical specifications
+- **User Experience & Ergonomics** – design best practices
+- **Immersive Application Development** – tools and frameworks
 - **Machine Learning for XR** – AI/ML in immersive applications
 
-### AR/VR/XR Basic
+### AR/VR/XR Basics
 
 ### Tracking & SLAM – Spatial mapping and localization techniques
 - [SLAM Handbook（MIT / Cambridge University Press）](https://dspace.mit.edu/handle/1721.1/163400)
@@ -69,7 +89,7 @@ Topics Covered
 
 - [XR Experience Design & Evaluation Framework（Springer）](https://link.springer.com/chapter/10.1007/978-3-031-78357-9_5)
 - [XRgonomics: Ergonomic 3D UI Toolkit（ACM CHI）](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445349)
-- [Scania XR Guidelines（Ergonomics + Accessibility）(https://tegel.scania.com/resources/xr-guidelines)
+- [Scania XR Guidelines（Ergonomics + Accessibility）](https://tegel.scania.com/resources/xr-guidelines)
 
 ### Immersive Application Development – Tools and frameworks
 
@@ -174,16 +194,85 @@ Tools that provide an authoring environment for creating XR content without prog
 
 
 ---
+## Inspiration
+
+Inspirational videos/sources are ordered by their field of application.
+
+### Education
+
+- [Music Everywhere](https://www.youtube.com/watch?v=QdlJMc5ek_8) - AR piano improvisation learning system
+
+### Holoportation
+
+- [Holoportation](https://www.youtube.com/watch?v=7d59O6cfaM0) - virtual 3D teleportation in real-time by Microsoft Research
+
+### Movies / TV
+
+- [Auggie (Movie)](https://www.imdb.com/title/tt7596220/?ref_=fn_al_tt_1) - Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter.
+- [Anon (Movie)](https://www.imdb.com/title/tt5397194/videoplayer/vi1718335513?ref_=tt_ov_vi) - In a world without anonymity or crime, a detective meets a woman who threatens their security.
+- [Altered Carbon (TV)](https://www.imdb.com/title/tt2261227/?ref_=fn_al_tt_1) - Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
+- [Black Mirror (TV)](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) - An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.
+
+### Sports
+
+- [Microsoft Hololens NFL Gaming Demo](https://www.youtube.com/watch?v=JQ2fhg1JQig) - MR and sports entertainment
+- [HADO - AR × Sports](https://www.youtube.com/watch?v=REBPXwx24kA) - HADO is AR sports enables people to shoot the energy balls and pull up the shields that people have dreamed of since the childhood
+
+### Science Fiction
+
+- [Plurality](https://www.youtube.com/watch?v=IzryBRPwsog) - SciFi short film
+- [Sight](https://vimeo.com/46304267) - A short futuristic film about AR
+- [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs) - A provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged.
+
+### Tools
+
+- [ARuler](https://www.youtube.com/watch?time_continue=1&v=lIJXsQwC39U) - Measure Distances with AR
+
+### Video Games
+
+- [FATHER.IO](https://father.io/) - AR laser tag
+- [RealityClash](https://reality-clash.com/) - AR combat game available on iPhone and Android
+- [Super Mario Bros AR Game](https://www.youtube.com/watch?v=QN95nNDtxjo) - AR game built with Microsoft HoloLens and Unity3D
+- [Spatial](https://www.kickstarter.com/projects/1539770337/spatial-multiplayer-ar-tabletop-gaming/description) - Multiplayer Holographic AR Tabletop Gaming
+
+### Misc
+
+- [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environment
+
+---
 
 
 ## 🎓 Courses & Tutorials
 
+### Foundations of AR/VR/XR
+
+### Development with Unity / Unreal
+
+#### Unity 
+- **[Unity Learn XR Courses](https://learn.unity.com/course/vr-fundamentals)** – Official Unity XR learning path
+#### Unreal
+
+
+### Academic Courses
 - **[MIT OpenCourseWare VR/AR](https://ocw.mit.edu/)** – Free MIT courses on immersive technologies
 - **[Stanford CS448: AR/VR](https://cs448.stanford.edu/)** – Advanced graduate course on AR/VR technologies
-- **[Unity Learn XR Courses](https://learn.unity.com/course/vr-fundamentals)** – Official Unity XR learning paths
-- **[Udacity Nanodegree Programs](https://www.udacity.com/)** – Professional VR/AR development programs
 - **[Coursera XR Specializations](https://www.coursera.org/)** – University-level courses on XR
 - **XR Interaction & UX Design Tutorials** – Design principles and implementation guides
+
+### Industry Training & Certifications
+- **[Udacity Nanodegree Programs](https://www.udacity.com/)** – Professional VR/AR development programs
+
+### XR 3D Content Creation
+
+### Interaction 
+
+### UX Design for XR
+
+### Gameplay Systems
+
+### AI/LLM
+- [How to Add LLMs to VR Apps with AI Building Blocks](https://www.youtube.com/watch?v=Q8BFLkRYOy0)
+- [How to Add Text-To-Speech to VR Games! (Meta SDKs + AI)](https://www.youtube.com/watch?v=61VAC6oQHTQ)
 
 ---
 
