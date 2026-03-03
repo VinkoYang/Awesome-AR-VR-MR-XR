@@ -262,6 +262,9 @@ Inspirational videos/sources are ordered by their field of application.
 
 #### Unity 
 - **[Unity Learn XR Courses](https://learn.unity.com/course/vr-fundamentals)** – Official Unity XR learning path
+- [Unity learning Pathways - Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development)
+- [Unity 6: AR Occlusion (Beginner Friendly Unity 6 AR Foundation Tutorial)](https://www.youtube.com/watch?v=LT1-evlxnVQ)
+
 #### Unreal
 
 
@@ -276,6 +279,9 @@ Inspirational videos/sources are ordered by their field of application.
 
 ### XR 3D Content Creation
 
+### Computer Vision
+- [Configuring Plane Detection for AR Foundation](https://learn.unity.com/tutorial/configuring-plane-detection-for-ar-foundation#) - reate and configure plane detection for AR Foundation
+- [unity - Create a plane detection AR app](https://learn.unity.com/project/create-a-plane-detection-ar-app) - create an AR app that makes use of plane detection technology by iOS and Android devices.
 ### Interaction 
 
 ### UX Design for XR
@@ -285,6 +291,11 @@ Inspirational videos/sources are ordered by their field of application.
 ### AI/LLM
 - [How to Add LLMs to VR Apps with AI Building Blocks](https://www.youtube.com/watch?v=Q8BFLkRYOy0)
 - [How to Add Text-To-Speech to VR Games! (Meta SDKs + AI)](https://www.youtube.com/watch?v=61VAC6oQHTQ)
+
+### Youtuber
+- [Dilmer Valecillos](https://www.youtube.com/@dilmerv/featured)
+- [Alive Studios](https://www.youtube.com/@AliveStudios_)
+
 
 
 ---
